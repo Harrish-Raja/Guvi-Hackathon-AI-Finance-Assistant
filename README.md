@@ -7,7 +7,7 @@ Check out the live demo here: [https://theinvestai.netlify.app/](https://theinve
 
 --- 
 ## 📸 Preview
-###InvestAI 
+### InvestAI 
 ![Investment Advisor Dashboard](assets/Dashboard.png)
 
 
