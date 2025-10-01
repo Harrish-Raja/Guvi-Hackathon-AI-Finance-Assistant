@@ -2,8 +2,8 @@
 
 A comprehensive, AI-powered investment advisory platform designed specifically for Indian retail investors. This application provides personalized investment recommendations, risk assessment, market analysis, and virtual trading capabilities - all powered by intelligent algorithms and working entirely with static data for demonstration purposes.
 
-# 🌐 Visit Live Demo
-Check out the live demo here: [https://theinvestai.netlify.app/](https://theinvestai.netlify.app/)
+# 🌐 Visit Live Website
+Check out the live website here: [https://theinvestai.netlify.app/](https://theinvestai.netlify.app/)
 
 --- 
 ## 📸 Preview
