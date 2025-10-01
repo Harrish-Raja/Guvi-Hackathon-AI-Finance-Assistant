@@ -23,7 +23,7 @@ Check out the live demo here: [https://theinvestai.netlify.app/](https://theinve
 ![Trading Simulator](assets/Trading_Simulator.png)
 
 ## 6.Profile Management
-![Profile Management](assets/profile_management.png)
+![Profile Management](assets/profile-management.png)
 
 
 ## 📋 Project Overview
