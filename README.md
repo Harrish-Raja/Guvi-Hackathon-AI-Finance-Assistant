@@ -7,8 +7,23 @@ Check out the live demo here: [https://theinvestai.netlify.app/](https://theinve
 
 --- 
 ## 📸 Preview
-### InvestAI 
+## 1.InvestAI Dashboard
 ![Investment Advisor Dashboard](assets/Dashboard.png)
+
+## 2.Risk Assessment
+![Risk Assessment](assets/Risk_Assessment.png)
+
+## 3.Recommendations
+![Recommendations](assets/Investment_Recommendations.png)
+
+## 4.Market Overview
+![Market Overview](assets/Investment_Recommendations.png)
+
+## 5.Trading Simulator
+![Trading Simulator](assets/Trading_Simulator.png)
+
+## 6.Profile Management
+![Profile Management](assets/profile_management.png)
 
 
 ## 📋 Project Overview
