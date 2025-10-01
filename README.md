@@ -28,7 +28,7 @@ Check out the live website here: [https://theinvestai.netlify.app/](https://thei
 
 ## 📋 Project Overview
 
-The GenAI Investment Advisor is a full-stack web application that democratizes investment advice for Indian retail investors. It combines sophisticated risk assessment algorithms, personalized recommendation engines, and educational content to guide users through their investment journey.
+The InvestAI is a full-stack web application that democratizes investment advice for Indian retail investors. It combines sophisticated risk assessment algorithms, personalized recommendation engines, and educational content to guide users through their investment journey.
 
 ### Key Features
 - 🎯 **Intelligent Risk Assessment** - Dynamic scoring algorithm with weighted factors
