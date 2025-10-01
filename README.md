@@ -5,11 +5,10 @@ A comprehensive, AI-powered investment advisory platform designed specifically f
 # 🌐 Visit Live Demo
 Check out the live demo here: [https://theinvestai.netlify.app/](https://theinvestai.netlify.app/)
 
----
-
+--- 
 ## 📸 Preview
 
-![GenAI Investment Advisor Dashboard](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop)
+![Investment Advisor Dashboard](assets/Dashboard.png)
 
 
 ## 📋 Project Overview
