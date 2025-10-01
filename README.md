@@ -1,4 +1,4 @@
-# 🚀 GenAI Investment Advisor for Indian Retail Investors
+# 🚀 InvestAI - GenAI Investment Advisor for Indian Retail Investors
 
 A comprehensive, AI-powered investment advisory platform designed specifically for Indian retail investors. This application provides personalized investment recommendations, risk assessment, market analysis, and virtual trading capabilities - all powered by intelligent algorithms and working entirely with static data for demonstration purposes.
 
@@ -7,7 +7,7 @@ Check out the live demo here: [https://theinvestai.netlify.app/](https://theinve
 
 --- 
 ## 📸 Preview
-
+###InvestAI 
 ![Investment Advisor Dashboard](assets/Dashboard.png)
 
 
