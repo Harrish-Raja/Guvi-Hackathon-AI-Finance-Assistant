@@ -253,12 +253,6 @@ const recommendations = useMemo(() => {
 - **Market Participation**: Encouraging systematic investment approaches
 - **Technology Adoption**: Modernizing traditional investment advisory
 
-### Technical Achievements
-- **Zero API Dependencies**: Fully functional without external services
-- **Responsive Design**: Seamless experience across all devices
-- **Performance Optimized**: Fast loading and smooth interactions
-- **Scalable Architecture**: Ready for production deployment
-
 ## 🚀 How to Run
 
 ### Prerequisites
@@ -556,13 +550,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📞 Support
-
-For support and questions:
-- 📧 Email: support@investai.com
-- 💬 Discord: [Join our community](https://discord.gg/investai)
-- 📖 Documentation: [docs.investai.com](https://docs.investai.com)
 
 ---
 
